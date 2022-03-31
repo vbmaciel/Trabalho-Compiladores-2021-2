@@ -1,0 +1,11 @@
+
+int fun() {
+    v = read;
+    a=10;
+
+if g == 20 then o = 9;
+
+b = 'q';
+
+goto 1230;
+}
