@@ -1,0 +1,30 @@
+456
+\\primeira tentativa
+\*comentario nada a ver*\
+if(i=0){
+   print("Ola Mundo");
+}else{
+   print("Tchau Mundo");
+}
+12
+
+?! -
+--
+- - -- - --
+
+909
+
+"aaaaa
+_akoaskopas
+_ __
+
+char int float if then else while goto read print return
+, ; : ( ) [ ] { } + - * / < > = 
+
+<= >= == !=
+'blablabl' 'a'
+"askopsakosapkasop" "a" "_sakopka_" "----"
+"kakaka oi
+\\aksopsakopsa
+\*aslsakosap
+askoaps*\
